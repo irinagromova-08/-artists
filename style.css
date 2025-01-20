@@ -1,0 +1,69 @@
+body {
+    background-image: url(data/image/background.jpg);
+}
+div{
+	border: 0px dashed black;
+}
+h1{
+	font-family: Comic Sans MS;
+}
+
+h3{
+	padding: 10px 10px 10px 20px;
+}
+p{
+	text-align:justify;
+}
+#header{
+	background: #FF00FF;
+	width: 80%;
+	height: 80px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 2mm ridge rgba(211, 220, 50, .6);
+}
+#logo_header{
+	float: left;
+	padding-left: 3%;
+	width:10%;
+}
+l#text_header{
+	width: 80%;
+}
+#main_menu{
+	background: #FFFFFF;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#artist{
+	background: #FFFFFF;
+	float: left;
+	height: 250px;
+	width: 31%;
+	padding: 5px;
+	margin: 1px;
+}
+#clear {
+    clear: both;
+}
+#left{
+	float:left;
+	width: 35%;
+	padding: 0px;
+	margin-right: 10px;
+	
+}
+#right{
+	float: right;
+	width:60%;
+	padding: 0px;
+}
+#footer{
+	background: #FF00FF;
+	width: 80%;
+	height: 60px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 2mm ridge rgba(211, 220, 50, .6);
+}
