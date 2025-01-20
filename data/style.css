@@ -1,0 +1,34 @@
+body {
+    background-image: url(image/background.jpg);    
+}
+div{
+	border: 0px dashed black;
+}
+h1{
+	font-family: Comic Sans MS;
+}
+h3{
+	margin-left: 40px;
+	text-decoration: underline;
+}
+l#text_header{
+	width: 80%;
+}
+#main_menu{
+	background: #FFFFFF;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#right{
+	float: right;
+	padding: 20px;
+}
+
+#work{
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
